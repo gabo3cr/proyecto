@@ -1,0 +1,1698 @@
+2016-03-21 04:05:55 Error: Fatal Error (1): Class 'Debugger' not found in [C:\xampp\htdocs\gruas\src\Template\Pages\home.ctp, line 53]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+
+
+
+
+
+2016-04-11 18:10:05 Warning: Warning (2): Invalid argument supplied for foreach() in [C:\xampp\htdocs\gruas\src\Template\Pages\home.ctp, line 19]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\Pages\home.ctp, line 19
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 57
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-04-12 21:57:16 Warning: Warning (2): Invalid argument supplied for foreach() in [C:\xampp\htdocs\gruas\src\Template\Pages\home.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\Pages\home.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 57
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-04-12 21:58:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 21:58:32 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 21:58:45 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 21:58:55 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 21:59:14 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 21:59:25 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 21:59:46 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 21:59:53 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:00:13 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:00:16 Warning: Warning (2): Invalid argument supplied for foreach() in [C:\xampp\htdocs\gruas\src\Template\Pages\home.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\Pages\home.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 57
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-04-12 22:00:38 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:00:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:01:08 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:01:18 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:01:38 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:01:47 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:02:10 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:02:20 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:02:33 Warning: Warning (2): Invalid argument supplied for foreach() in [C:\xampp\htdocs\gruas\src\Template\Pages\home.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\Pages\home.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 57
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-04-12 22:02:41 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:02:54 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:03:04 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:03:23 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:06:31 Warning: Warning (2): Invalid argument supplied for foreach() in [C:\xampp\htdocs\gruas\src\Template\Pages\home.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\Pages\home.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 57
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-04-12 22:06:56 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:07:46 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:07:56 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:08:17 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:08:26 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:08:43 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:08:53 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:09:15 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:09:23 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:09:43 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:09:53 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:10:13 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:10:23 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:10:44 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:10:54 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:11:14 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:11:24 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:11:44 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:11:53 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:12:14 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:12:24 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:12:45 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:12:52 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Slider could not be found.
+Exception Attributes: array (
+  'class' => 'Slider',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/slider
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:14:25 Error: Fatal Error (1): Call to undefined function App\Controller\slider() in [C:\xampp\htdocs\gruas\src\Controller\PagesController.php, line 54]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-04-12 22:14:26 Error: [Cake\Error\FatalErrorException] Call to undefined function App\Controller\slider()
+Request URL: /gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 54)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-04-12 22:20:05 Error: [Cake\View\Exception\MissingTemplateException] Template file "Pages\home\slider.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\home\\slider.ctp',
+)
+Request URL: /gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\View\View.php(584): Cake\View\View->_getViewFileName('home/slider')
+#1 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render('home/slider', NULL)
+#2 C:\xampp\htdocs\gruas\src\Controller\PagesController.php(58): Cake\Controller\Controller->render('home/slider')
+#3 [internal function]: App\Controller\PagesController->display('home', 'slider')
+#4 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Controller\Controller.php(429): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#6 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#7 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2016-04-12 22:22:38 Warning: Warning (2): Invalid argument supplied for foreach() in [C:\xampp\htdocs\gruas\src\Template\Pages\home.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\Pages\home.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 58
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-04-12 22:28:48 Error: Fatal Error (1): Class 'App\Controller\log' not found in [C:\xampp\htdocs\gruas\src\Controller\PagesController.php, line 58]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-04-12 22:28:51 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\log' not found
+Request URL: /gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 58)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-04-12 22:28:52 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:30:56 Warning: Warning (2): Invalid argument supplied for foreach() in [C:\xampp\htdocs\gruas\src\Template\Pages\home.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\Pages\home.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 58
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-04-12 22:31:16 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:31:55 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:32:05 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:32:25 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:32:35 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:32:55 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:33:05 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:33:26 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:33:27 Error: [Cake\View\Exception\MissingTemplateException] Template file "Pages\slider\slider.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\slider\\slider.ctp',
+)
+Request URL: /gruas/pages/slider
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\View\View.php(584): Cake\View\View->_getViewFileName('slider/slider')
+#1 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render('slider/slider', NULL)
+#2 C:\xampp\htdocs\gruas\src\Controller\PagesController.php(58): Cake\Controller\Controller->render('slider/slider')
+#3 [internal function]: App\Controller\PagesController->display('slider', 'slider')
+#4 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Controller\Controller.php(429): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#6 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#7 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2016-04-12 22:33:59 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:34:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:34:30 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:34:39 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:34:50 Warning: Warning (2): Invalid argument supplied for foreach() in [C:\xampp\htdocs\gruas\src\Template\Pages\home.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\Pages\home.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 58
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-04-12 22:35:12 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:35:22 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:35:43 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:35:53 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:35:55 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Home could not be found.
+Exception Attributes: array (
+  'class' => 'Home',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/home
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:36:39 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:36:49 Warning: Warning (2): Invalid argument supplied for foreach() in [C:\xampp\htdocs\gruas\src\Template\Pages\home.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\Pages\home.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 58
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-04-12 22:36:50 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:36:55 Error: [Cake\View\Exception\MissingTemplateException] Template file "Pages\img\map-base.png.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\img\\map-base.png.ctp',
+)
+Request URL: /gruas/pages/img/map-base.png
+Referer URL: http://localhost:90/gruas/pages/home
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\View\View.php(584): Cake\View\View->_getViewFileName('img/map-base.pn...')
+#1 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render('img/map-base.pn...', NULL)
+#2 C:\xampp\htdocs\gruas\src\Controller\PagesController.php(58): Cake\Controller\Controller->render('img/map-base.pn...')
+#3 [internal function]: App\Controller\PagesController->display('img', 'map-base.png')
+#4 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Controller\Controller.php(429): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#6 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#7 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2016-04-12 22:36:56 Error: [Cake\View\Exception\MissingTemplateException] Template file "Pages\img\hexagon.png.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\img\\hexagon.png.ctp',
+)
+Request URL: /gruas/pages/img/hexagon.png
+Referer URL: http://localhost:90/gruas/pages/home
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\View\View.php(584): Cake\View\View->_getViewFileName('img/hexagon.png')
+#1 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render('img/hexagon.png', NULL)
+#2 C:\xampp\htdocs\gruas\src\Controller\PagesController.php(58): Cake\Controller\Controller->render('img/hexagon.png')
+#3 [internal function]: App\Controller\PagesController->display('img', 'hexagon.png')
+#4 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Controller\Controller.php(429): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#6 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#7 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2016-04-12 22:39:23 Error: [Cake\View\Exception\MissingTemplateException] Template file "Pages\undefined.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\undefined.ctp',
+)
+Request URL: /gruas/pages/undefined
+Referer URL: http://localhost:90/gruas/pages/home
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\View\View.php(584): Cake\View\View->_getViewFileName('undefined')
+#1 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render('undefined', NULL)
+#2 C:\xampp\htdocs\gruas\src\Controller\PagesController.php(58): Cake\Controller\Controller->render('undefined')
+#3 [internal function]: App\Controller\PagesController->display('undefined')
+#4 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Controller\Controller.php(429): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#6 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#7 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#8 {main}
+
+
+2016-04-12 22:39:25 Warning: Warning (2): Invalid argument supplied for foreach() in [C:\xampp\htdocs\gruas\src\Template\Pages\home.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\Pages\home.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 58
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-04-12 22:40:33 Warning: Warning (2): Invalid argument supplied for foreach() in [C:\xampp\htdocs\gruas\src\Template\Pages\home.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\Pages\home.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 58
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-04-12 22:40:40 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:40:45 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Home could not be found.
+Exception Attributes: array (
+  'class' => 'Home',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/home
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:41:05 Warning: Warning (2): Invalid argument supplied for foreach() in [C:\xampp\htdocs\gruas\src\Template\Pages\home.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\Pages\home.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 58
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-04-12 22:41:06 Warning: Warning (2): Invalid argument supplied for foreach() in [C:\xampp\htdocs\gruas\src\Template\Pages\home.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\Pages\home.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 58
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-04-12 22:41:28 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:41:37 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:41:57 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:42:07 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:42:27 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:42:37 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:46:11 Error: Fatal Error (1): Class 'App\Controller\log' not found in [C:\xampp\htdocs\gruas\src\Controller\PagesController.php, line 59]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-04-12 22:46:12 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\log' not found
+Request URL: /gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 59)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-04-12 22:47:07 Error: Fatal Error (1): Class 'App\Controller\log' not found in [C:\xampp\htdocs\gruas\src\Controller\PagesController.php, line 59]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-04-12 22:47:08 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\log' not found
+Request URL: /gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 59)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-04-12 22:48:18 Warning: Warning (2): Invalid argument supplied for foreach() in [C:\xampp\htdocs\gruas\src\Template\Pages\home.ctp, line 18]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\Pages\home.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+App\Controller\PagesController::display() - APP/Controller\PagesController.php, line 58
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-04-12 22:48:34 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:48:44 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:49:58 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:50:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:50:29 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:50:38 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:50:58 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:51:08 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:51:29 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:51:38 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:51:59 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:52:08 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:52:28 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:52:38 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:52:58 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Undefined could not be found.
+Exception Attributes: array (
+  'class' => 'Undefined',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /gruas/undefined
+Referer URL: http://localhost:90/gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-04-12 22:54:26 Error: Fatal Error (1): Class 'App\Controller\log' not found in [C:\xampp\htdocs\gruas\src\Controller\PagesController.php, line 57]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-04-12 22:54:27 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\log' not found
+Request URL: /gruas/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', 'C:\\xampp\\htdocs...', 57)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-04-18 21:43:39 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'gruas_tagar'@'localhost' (using password: YES)
+Request URL: /gruas/
+Referer URL: http://localhost:90/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Database\Driver\PDODriverTrait.php(48): PDO->__construct('mysql:host=loca...', 'gruas_tagar', '&BsZw!(V]NX$T,G...', Array)
+#1 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php(90): Cake\Database\Driver\Mysql->_connect('mysql:host=loca...', Array)
+#2 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Database\Schema\BaseSchema.php(45): Cake\Database\Driver\Mysql->connect()
+#3 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Database\Dialect\MysqlDialectTrait.php(63): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(43): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Database\Connection.php(315): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\ORM\Table.php(428): Cake\Database\Connection->schemaCollection()
+#8 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\ORM\Query.php(211): Cake\ORM\Table->schema()
+#9 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\ORM\Query.php(169): Cake\ORM\Query->addDefaultTypes(Object(Cake\ORM\Table))
+#10 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\ORM\Table.php(1242): Cake\ORM\Query->__construct(Object(Cake\Database\Connection), Object(Cake\ORM\Table))
+#11 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\ORM\Table.php(945): Cake\ORM\Table->query()
+#12 C:\xampp\htdocs\gruas\src\Controller\PagesController.php(62): Cake\ORM\Table->find()
+#13 [internal function]: App\Controller\PagesController->display('home')
+#14 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Controller\Controller.php(429): call_user_func_array(Array, Array)
+#15 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#16 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#17 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#18 {main}
+
+
+2016-04-25 16:34:38 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [C:\xampp\htdocs\gruas\vendor\composer\ClassLoader.php, line 383]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-04-25 22:38:21 Error: [PDOException] SQLSTATE[HY000] [1045] Access denied for user 'gruas_tagar'@'localhost' (using password: YES)
+Request URL: /gruas/
+Referer URL: http://localhost:90/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Database\Driver\PDODriverTrait.php(48): PDO->__construct('mysql:host=loca...', 'gruas_tagar', '&BsZw!(V]NX$T,G...', Array)
+#1 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php(90): Cake\Database\Driver\Mysql->_connect('mysql:host=loca...', Array)
+#2 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Database\Schema\BaseSchema.php(45): Cake\Database\Driver\Mysql->connect()
+#3 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Database\Dialect\MysqlDialectTrait.php(63): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(43): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Database\Connection.php(315): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\ORM\Table.php(428): Cake\Database\Connection->schemaCollection()
+#8 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\ORM\Query.php(211): Cake\ORM\Table->schema()
+#9 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\ORM\Query.php(169): Cake\ORM\Query->addDefaultTypes(Object(Cake\ORM\Table))
+#10 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\ORM\Table.php(1242): Cake\ORM\Query->__construct(Object(Cake\Database\Connection), Object(Cake\ORM\Table))
+#11 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\ORM\Table.php(945): Cake\ORM\Table->query()
+#12 C:\xampp\htdocs\gruas\src\Controller\PagesController.php(62): Cake\ORM\Table->find()
+#13 [internal function]: App\Controller\PagesController->display('home')
+#14 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Controller\Controller.php(429): call_user_func_array(Array, Array)
+#15 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#16 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#17 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#18 {main}
+
+
+2016-04-25 22:39:32 Error: [Cake\Database\Exception] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'gruas.tblslider_home' doesn't exist
+Request URL: /gruas/
+Referer URL: http://localhost:90/
+Stack Trace:
+#0 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'tblslider_home', Array, Object(Cake\Database\Schema\Table))
+#1 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(64): Cake\Database\Schema\Collection->describe('tblslider_home', Array)
+#2 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\ORM\Table.php(429): Cake\Database\Schema\CachedCollection->describe('tblslider_home')
+#3 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\ORM\Query.php(211): Cake\ORM\Table->schema()
+#4 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\ORM\Query.php(169): Cake\ORM\Query->addDefaultTypes(Object(Cake\ORM\Table))
+#5 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\ORM\Table.php(1242): Cake\ORM\Query->__construct(Object(Cake\Database\Connection), Object(Cake\ORM\Table))
+#6 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\ORM\Table.php(945): Cake\ORM\Table->query()
+#7 C:\xampp\htdocs\gruas\src\Controller\PagesController.php(62): Cake\ORM\Table->find()
+#8 [internal function]: App\Controller\PagesController->display('home')
+#9 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Controller\Controller.php(429): call_user_func_array(Array, Array)
+#10 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#11 C:\xampp\htdocs\gruas\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\PagesController))
+#12 C:\xampp\htdocs\gruas\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#13 {main}
+
+
