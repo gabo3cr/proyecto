@@ -202,6 +202,13 @@ return [
         'default' => [
             'transport' => 'default',
             'from' => 'you@localhost',
+            'host' => 'smtp.gmail.com',
+            'port' => 587,
+            'timeout' => 30,
+            'username' => 'gabo3cr@gmail.com',
+            'password' => '2440340xD',
+            'client' => null,
+            'tls' => null,
             //'charset' => 'utf-8',
             //'headerCharset' => 'utf-8',
         ],
@@ -225,8 +232,10 @@ return [
              * the following line and set the port accordingly
              */
             //'port' => 'non_standard_port_number',
-            'username' => 'gruas_tagar',
-            'password' => '&BsZw!(V]NX$T,GAA&',
+//            'username' => 'gruas_tagar',
+//            'password' => '&BsZw!(V]NX$T,GAA&',
+            'username' => 'root',
+            'password' => '',
             'database' => 'gruas_tagar',
             'encoding' => 'utf8',
             'timezone' => 'UTC',

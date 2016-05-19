@@ -50,10 +50,10 @@ $this->assign('title', 'Solicitar Presupuesto :: Gruas Tagar');
 					</p>
 					
 					<hr class="pi-divider-gap-10">
-					
+
 					<!-- Forms -->
-					<form role="form" action="/Page/cotizaciones" method="POST">
-						
+					<form role="form" action="/proyecto/Cotizaciones/registroCotizacion" method="POST">
+
 						<!-- First name form -->
 						<div class="form-group">
 							<div class="pi-input-with-icon">
@@ -75,7 +75,7 @@ $this->assign('title', 'Solicitar Presupuesto :: Gruas Tagar');
 							</div>
 						</div>
 						<!-- End email form -->
-						
+
 						<!-- empresa -->
 						<div class="form-group">
 							<div class="pi-input-with-icon">
@@ -86,12 +86,12 @@ $this->assign('title', 'Solicitar Presupuesto :: Gruas Tagar');
 							</div>
 						</div>
 						<!-- empresa -->
-			
+
 					<div class="pi-col-sm-12">
-						
+
 						<!-- Accordion -->
 						<div class="pi-accordion">
-							
+
 							<!-- Accordion item -->
 							<div class="pi-accordion-item">
 								<h5 class="pi-accordion-title">
@@ -113,7 +113,7 @@ $this->assign('title', 'Solicitar Presupuesto :: Gruas Tagar');
 									</div>
 								</div>
 								<!-- End first name form -->
-								
+
 								<!-- First name form -->
 								<div class="form-group">
 									<div class="pi-input-with-icon">
@@ -169,25 +169,25 @@ $this->assign('title', 'Solicitar Presupuesto :: Gruas Tagar');
 									</div>
 								</div>
 								<!-- End message form -->
-								
-								
-								
+
+
+
 									</div>
 								</div>
 							</div>
-							<!-- End accordion item -->					
+							<!-- End accordion item -->
 						</div>
 						<!-- End accordion -->
-						
+
 					</div>
 					<!-- End col 6 -->
 
 						<!-- Col 6 -->
 					<div class="pi-col-sm-12">
-						
+
 						<!-- Accordion -->
 						<div class="pi-accordion">
-							
+
 							<!-- Accordion item -->
 							<div class="pi-accordion-item">
 								<h5 class="pi-accordion-title">
@@ -209,7 +209,7 @@ $this->assign('title', 'Solicitar Presupuesto :: Gruas Tagar');
 									</div>
 								</div>
 								<!-- End first name form -->
-								
+
 								<!-- First name form -->
 								<div class="form-group">
 									<div class="pi-input-with-icon">
@@ -232,16 +232,16 @@ $this->assign('title', 'Solicitar Presupuesto :: Gruas Tagar');
 									</div>
 								</div>
 								<!-- End message form -->
-								
-								
-								
+
+
+
 									</div>
 								</div>
 							</div>
-							<!-- End accordion item -->					
+							<!-- End accordion item -->
 						</div>
 						<!-- End accordion -->
-						
+
 					</div>
 					<!-- End col 6 -->
 

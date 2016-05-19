@@ -115,7 +115,7 @@ $this->assign('title', 'Servicios :: Gruas Tagar');
             <!-- Portfolio item -->
             <div class="Beautiful Morning pi-gallery-item isotope-item"><!--aki va el titulo de la categoria-->
                 <div class="pi-img-w pi-img-round-corners pi-img-shadow">
-                    <a href="<?=  $galeria['txtImagen'] ?>" class="pi-colorbox">
+                    <a href="/proyecto/img/galeria/<?=  $galeria['txtImagen'] ?>" class="pi-colorbox">
                        <?= $this->Html->image('galeria/'.$galeria['txtImagen']) ?> 
                         <div class="pi-img-overlay pi-no-padding pi-img-overlay-darker">
                             <div class="pi-caption-centered">
